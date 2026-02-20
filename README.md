@@ -5,7 +5,7 @@ This portfolio demonstrates experience with file I/O, structured data processing
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | Project | Description | Key Skills |
 |--------|-------------|-----------|
@@ -13,11 +13,11 @@ This portfolio demonstrates experience with file I/O, structured data processing
 | **Project 2** | File parsing and validation from structured data | File I/O, error handling |
 | **Project 3** | Structured data processing and formatting | Defensive programming |
 
-📁 All projects are located in the [`projects/`](./projects) directory.
+ All projects are located in the [`projects/`](./projects) directory.
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
+##  Technical Skills Demonstrated
 
 - C programming (C99)
 - File I/O
@@ -29,7 +29,7 @@ This portfolio demonstrates experience with file I/O, structured data processing
 
 ---
 
-## ⚙️ Build
+##  Build
 
 Each project can be compiled using:
 
